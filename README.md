@@ -41,7 +41,8 @@ This script performs a simple linear regression analysis on a dataset.
 
 ```bash
 git clone https://github.com/your-username/data-analysis-using-Akaike-Information-Criterion.git
-cd data-analysis-using-Akaike-Information-Criterion ```
+cd data-analysis-using-Akaike-Information-Criterion
+```
 
 2. Make sure you have the required Python dependencies installed (NumPy, pandas, sklearn, matplotlib, scipy, seaborn). You can install them using pip.
 
