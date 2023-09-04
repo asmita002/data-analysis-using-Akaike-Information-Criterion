@@ -1,6 +1,4 @@
-# Data Analysis with AIC | PURE 2022
-
-# Data Analysis and Linear Regression with AIC
+# Data Analysis Linear Regression with AIC | PURE 2022
 
 This repository contains Python scripts for data analysis and linear regression using the Akaike Information Criterion (AIC) for model selection. It also includes a simple linear regression analysis of a dataset. Let's explore the contents and how to use these scripts.
 
@@ -62,3 +60,10 @@ A lower AIC suggests a more parsimonious model that fits the data well.
 
 
 ![Slide1 2](https://github.com/asmita002/data-analysis-using-Akaike-Information-Criterion/assets/97020024/4d5927f4-9f69-4cf7-9fc5-09f86a919747)
+
+
+
+### Acknowledgments
+1. The Akaike Information Criterion (AIC) is a powerful tool for model selection in machine learning and statistics.
+2. The linear regression analysis script uses common libraries like NumPy, pandas, and scikit-learn for data analysis and visualization.
+3. Dr. Amir Malvandi and The "Promoting Undergraduate Research in Engineering (PURE) Program," a student organization-led, interdisciplinary research program aimed at pairing 1st and 2nd-year undergraduate students with research mentors.
